@@ -1,3 +1,6 @@
+#include <cmath>
+#include<iostream>
+
 bool checkArmstrong(int n){
 
     int digits = 0;
